@@ -14,4 +14,4 @@ Desarrollar una aplicación web que permita gestionar tareas mediante operacione
 La primera versión permite crear, consultar, editar y eliminar tareas desde una página web.
 
 ## Autor
-@CarlosFerSer
+[CarlosFerSer](https://github.com/CarlosFerSer)
